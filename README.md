@@ -7,9 +7,9 @@ This program will determine the store(s) with the highest percent of cards wante
 
 Unfortunately, I have been unable to change the default country so it is necessary to save the webpage for each card wanted.
 I intend on making this possible later in the summer, so if you have any suggestions feel free to comment.
-======================
 
-Instructions.
+Instructions
+======================
 
 Adding a new card:
 	To add a new card there are two things you will need to do:
@@ -21,12 +21,13 @@ Adding a new card:
 		
 
 
-Running the program:
+Running the program
+======================
+
 	This program should be able to run in Eclipse (I used version Kepler). 
 	All you will need to do is import the project, then run the file ProgramStart
 	
-
+Suggestions:
 ======================
 
-Suggestions:
-	If you feel that the Instructions were not clear, or have any other questions 
+	If you feel that the Instructions were not clear, or have any other questions feel free to contact me
