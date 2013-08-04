@@ -24,10 +24,10 @@ Adding a new card:
 Running the program
 ======================
 
-	This program should be able to run in Eclipse (I used version Kepler). 
-	All you will need to do is import the project, then run the file ProgramStart
+This program should be able to run in Eclipse (I used version Kepler). 
+All you will need to do is import the project, then run the file ProgramStart.
 	
 Suggestions:
 ======================
 
-	If you feel that the Instructions were not clear, or have any other questions feel free to contact me
+If you feel that the Instructions were not clear, or have any other questions feel free to contact me.
